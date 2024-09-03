@@ -1,0 +1,121 @@
+
+      <div class="thired">
+        <h1 id="set-p_name">Crime Management System</h1>
+        
+        <p id="set-p_disc">
+          I created my first Project for 1st Semester in my college. Hello, my
+          project is working for various types of crime. It is very easy to use.
+          Login page (with validation)->OTP(simple & content)->enter your crime
+          and see your crime and charges Languages: Html | CSS | Javascript.
+        </p>
+      </div>
+    </div>
+    <div class="achi-head">
+      <h1>Achievements</h1>
+      <div id="undrLine4"></div>
+    </div>
+    <div class="achiv">
+    
+      <div class="achiv1">
+        <h1 id="set-p_name">Data Science Using Python</h1>
+        <p id="set-p_disc">
+          🥳🤩 Hurray!! I'm ecstatic to celebrate my first achievement in Data
+          <br />
+          Science using Python. 😎 This accomplishment reflects my dedication to
+          <br />
+          learning and applying data science techniques. From data manipulation
+          <br />
+          with Pandas to visualizing insights with Matplotlib, the journey has
+          <br />
+          been incredibly rewarding. Tackling real-world datasets has deepened
+          <br />
+          my passion for this field. This milestone boosts my confidence and
+          <br />
+          motivates me to explore machine learning and advanced Python libraries
+          <br />
+          further. Here's to continued growth and more achievements in data
+          <br />
+          science! 🚀📊
+        </p>
+      </div>
+
+      <div class="achiv2">
+        <h1 id="set-p_name">Tech Trivia</h1>
+        <p id="set-p_disc">
+          🏆 **Tech Trivia Champion** | 👨‍💻 **Software Enthusiast** | 🎯
+          <br />
+          **Problem Solver** I'm a tech trivia champion with a passion for
+          <br />
+          software development and a knack for problem-solving. With a keen
+          <br />
+          interest in technology trends, I'm always up-to-date with the latest
+          <br />
+          in the tech world. Whether it's coding, troubleshooting, or engaging
+          <br />
+          in tech-related trivia, I bring a competitive edge and a collaborative
+          <br />
+          spirit to every challenge. Let's connect and explore the exciting
+          <br />
+          world of technology together!
+        </p>
+      </div>
+
+      <div class="achiv3">
+        <h1 id="set-p_name">IT Fest</h1>
+        <p id="set-p_disc">
+          🥳🤩 Hurray!! I'm ecstatic to celebrate my achievement in the IT Fest
+          <br />
+          Competition. 😎 Securing 5th position during my 1st semester reflects
+          <br />
+          my dedication and hard work. This milestone showcases my skills and
+          <br />
+          enthusiasm for technology and innovation. It’s a fantastic start and
+          <br />
+          boosts my confidence to explore more opportunities and challenges.
+          <br />
+          Here’s to continued growth and future successes in all my tech
+          <br />
+          endeavors! 🚀🎉
+        </p>
+      </div>
+
+      <div class="achiv4">
+        <h1 id="set-p_name">Games</h1>
+        <p id="set-p_disc">
+          🥳🤩 Hurray!! I'm thrilled to celebrate winning 1st position in the
+          <br>
+          Kabaddi game at my college! 😎 This victory reflects my dedication,
+          <br>
+          teamwork, and strategic skills on the field. Securing the top spot is
+          <br>
+          a significant milestone that boosts my confidence and inspires me to
+          <br>
+          excel further in both sports and academics. Here’s to more
+          <br>
+          achievements and continued growth in all areas of life! 🚀🏆
+        </p>
+      </div>
+    </div>
+
+    <section class="resume-section">
+      <h2>Download My Resume</h2>
+      <div id="undrLine4"></div>
+      <div class="btn-d">
+      <a href="documents/resume.pdf" download="Harsh_Shrivastava_Resume.pdf" class="resume-link">
+          Download Resume
+      </a>
+    </div>
+  </section>
+  
+    <div class="extraspace"></div>
+    <footer>
+      <h3 id="set-c">©portfoliowebsite</h3>
+      <h3 id="set-e">
+        <u style="color: rgb(117, 37, 37)">Email:</u> hshrivastva559@gmail.com
+      </h3>
+      <h3 id="set-p">
+        <u style="color: rgb(117, 37, 37)">PH.no:</u> +98788778789
+      </h3>
+    </footer>
+  </body>
+</html>
